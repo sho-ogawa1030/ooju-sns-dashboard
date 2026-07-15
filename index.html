@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#f5f1e8">
+<title>ooju SNS ダッシュボード</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="dash-wrap">
+
+  <header class="dash-header">
+    <img class="logo" src="assets/logo-ink.svg" alt="ooju">
+    <div class="title-block">
+      <div class="ooju-eyebrow">SNS Performance — Instagram</div>
+      <h1 class="dash-title">実績ダッシュボード</h1>
+    </div>
+    <div class="dash-meta">
+      <span id="metaAccount"></span><br>
+      <span id="metaUpdated"></span>
+    </div>
+  </header>
+
+  <div class="seg" role="tablist" aria-label="集計期間">
+    <button id="btn7" onclick="setPeriod('7')">過去7日間</button>
+    <button id="btn30" onclick="setPeriod('30')">過去30日間</button>
+  </div>
+
+  <div class="tiles" id="tiles"></div>
+
+  <div class="sec"><h2>推移</h2><span class="sub">更新のたびにデータが蓄積されます</span></div>
+  <div class="grid-2">
+    <div class="panel">
+      <h3>フォロワー数の推移</h3>
+      <div class="p-sub">更新時スナップショット</div>
+      <div id="followerChart"></div>
+    </div>
+    <div class="panel">
+      <h3>投稿ごとのいいね数</h3>
+      <div class="p-sub">投稿日順・直近30投稿（バーにカーソルで詳細）</div>
+      <div id="likesChart"></div>
+    </div>
+  </div>
+
+  <div class="sec"><h2>コンテンツ内訳</h2><span class="sub">選択中の期間 ・ %</span></div>
+  <div class="grid-2">
+    <div class="panel">
+      <h3>ビューの内訳</h3>
+      <div class="p-sub">コンテンツタイプ別</div>
+      <div id="viewSplit"></div>
+    </div>
+    <div class="panel">
+      <h3>インタラクションの内訳</h3>
+      <div class="p-sub">コンテンツタイプ別</div>
+      <div id="interactionSplit"></div>
+    </div>
+  </div>
+
+  <div class="sec"><h2>よく見られている投稿</h2><span class="sub">エンゲージメント（いいね＋コメント）順</span></div>
+  <div class="rank-list" id="topPosts"></div>
+
+  <div class="sec"><h2>やることリスト</h2><span class="sub">タグ付けされた投稿への対応（チェックはこのブラウザに保存されます）</span></div>
+  <div class="todo-progress" id="todoProgress"></div>
+  <div class="todo-list" id="todoList"></div>
+
+  <div class="sec"><h2>投稿一覧</h2><span class="sub">直近の投稿 ・ ER＝(いいね＋コメント)÷フォロワー</span></div>
+  <div class="table-panel">
+    <table class="posts">
+      <thead><tr>
+        <th>投稿日</th><th>種類</th><th>キャプション</th>
+        <th class="num">いいね</th><th class="num">コメント</th><th class="num">再生数</th><th class="num">ER</th><th></th>
+      </tr></thead>
+      <tbody id="postTable"></tbody>
+    </table>
+  </div>
+
+  <footer class="dash-foot">
+    <span id="gennote"></span><br>
+    アカウント指標（ビュー・リーチ等）はInstagram Webインサイトの概数、投稿ごとの数値はInstagram Web APIの実数です。
+  </footer>
+
+</div>
+<div id="tooltip"></div>
+<script src="app.js"></script>
+</body>
+</html>

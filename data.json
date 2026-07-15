@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-07-15T04:30:00+09:00",
+  "source": "Instagram Web インサイト + Web API (ooju.official)",
+  "account": {
+    "username": "ooju.official",
+    "followers": 30249,
+    "following": 0,
+    "posts": 696,
+    "bioLink": "https://ooju.jp/"
+  },
+  "insights": {
+    "7": {
+      "label": "過去7日間",
+      "views": 44000,
+      "viewsFollowerPct": 60.6,
+      "reach": 10000,
+      "interactions": 70,
+      "interactionsFollowerPct": 80.0,
+      "actionAccounts": 61,
+      "profileActivity": 733,
+      "profileVisits": 578,
+      "linkTaps": 155,
+      "viewSplit": { "ストーリーズ": 84.3, "リール": 10.4, "投稿": 5.2 },
+      "interactionSplit": { "投稿": 78.4, "リール": 13.7, "ストーリーズ": 7.8 }
+    },
+    "30": {
+      "label": "過去30日間",
+      "views": 229000,
+      "viewsFollowerPct": 54.7,
+      "reach": 33000,
+      "interactions": 559,
+      "interactionsFollowerPct": 54.2,
+      "actionAccounts": 366,
+      "profileActivity": 4594,
+      "profileVisits": 3729,
+      "linkTaps": 865,
+      "viewSplit": { "ストーリーズ": 70.1, "リール": 25.7, "投稿": 4.2, "動画": 0 },
+      "interactionSplit": { "投稿": 60.8, "ストーリーズ": 20.4, "リール": 18.9 }
+    }
+  },
+  "history": [
+    { "date": "2026-07-15", "followers": 30249, "posts": 696, "views30": 229000, "reach30": 33000, "interactions30": 559, "profileVisits30": 3729, "linkTaps30": 865 }
+  ],
+  "posts": [
+    { "code": "DazDNaTjLy8", "taken_at": 1784084415, "media_type": 8, "like_count": 3, "comment_count": 0, "play_count": null, "caption": "nylon shorts / khaki & beige ☀️ 軽くて、ストレスフリー。軽撥水の" },
+    { "code": "DaweZxOjRlC", "taken_at": 1783998009, "media_type": 8, "like_count": 7, "comment_count": 1, "play_count": null, "caption": "multi border dress ☀️ 1枚できまる、夏のワンピース。" },
+    { "code": "DauiyN4Ek_J", "taken_at": 1783933198, "media_type": 8, "like_count": 14, "comment_count": 0, "play_count": null, "caption": "club ooju s/s t-shirts 背中に「make it playful」。" },
+    { "code": "DaNSQz3EgDy", "taken_at": 1782817202, "media_type": 8, "like_count": 11, "comment_count": 0, "play_count": null, "caption": "📢✨ ooju SUMMER SALE START ✨📢 ＼新作も全部SALE対象／" },
+    { "code": "DZ_-yLVvuG2", "taken_at": 1782370809, "media_type": 2, "like_count": 15, "comment_count": 1, "play_count": 8475, "caption": "💚🧡💜 好きな色を、好きなように着る。" },
+    { "code": "DZzbd4NnDz-", "taken_at": 1781949604, "media_type": 8, "like_count": 15, "comment_count": 0, "play_count": null, "caption": "💚新色beige & green🧡 11歳と5歳の姉妹で同じサイズ4を着用👭" },
+    { "code": "DZtvf21ErWB", "taken_at": 1781758802, "media_type": 8, "like_count": 13, "comment_count": 0, "play_count": null, "caption": "人気のblue全サイズあります✨ 人気のclub ooju Tシャツ☻" },
+    { "code": "DZjqAw8kjb6", "taken_at": 1781420405, "media_type": 8, "like_count": 16, "comment_count": 0, "play_count": null, "caption": "新色💚 multi border ringer t-shirts green" },
+    { "code": "DZehDEgEky5", "taken_at": 1781247901, "media_type": 8, "like_count": 9, "comment_count": 0, "play_count": null, "caption": "着心地最高のooju pile が再入荷" },
+    { "code": "DZZW5tekrAs", "taken_at": 1781074802, "media_type": 8, "like_count": 31, "comment_count": 0, "play_count": null, "caption": "【🆕multi border ringer t-shirts】2026年newカラーbeige" },
+    { "code": "DZWyI1AklxO", "taken_at": 1780988402, "media_type": 8, "like_count": 69, "comment_count": 0, "play_count": null, "caption": "【お待たせしました♡】人気で完売していたnylon salopetteが各色再入荷" },
+    { "code": "DZUNTgavr2F", "taken_at": 1780902008, "media_type": 2, "like_count": 20, "comment_count": 0, "play_count": 10484, "caption": "【2026年newカラーが入荷】素材やテイストが新しくなったリンガーT-shirtsが登場！！" },
+    { "code": "DZPex_lEl8m", "taken_at": 1780743428, "media_type": 8, "like_count": 17, "comment_count": 0, "play_count": null, "caption": "pile f/s T-shirts navy🟦 大人気のooju pileシリーズが待望の再入荷" },
+    { "code": "DZCnO5DEmLf", "taken_at": 1780311608, "media_type": 8, "like_count": 14, "comment_count": 0, "play_count": null, "caption": "multi border ringer t-shirts_pink 🌸 首元と袖口にパイピング" },
+    { "code": "DY4junVkuCb", "taken_at": 1779974269, "media_type": 8, "like_count": 37, "comment_count": 0, "play_count": null, "caption": "denim over all_indigo👖 大人気のオーバーオールシリーズ。" },
+    { "code": "DYw0BhPksas", "taken_at": 1779714377, "media_type": 8, "like_count": 12, "comment_count": 0, "play_count": null, "caption": "ooju jeans type2_blue 💙 大人気のooju jeansはワイドシルエット" },
+    { "code": "DYmZV53kvcE", "taken_at": 1779364800, "media_type": 8, "like_count": 13, "comment_count": 0, "play_count": null, "caption": "multi border dress_blue🟦 大人気のマルチボーダードレス" },
+    { "code": "DYhWoXsFtBz", "taken_at": 1779195600, "media_type": 8, "like_count": 13, "comment_count": 0, "play_count": null, "caption": "pile shorts_pink 軽やかでリラックス感のある快適な履き心地" },
+    { "code": "DYa3r2Okmys", "taken_at": 1778978099, "media_type": 8, "like_count": 9, "comment_count": 0, "play_count": null, "caption": "multi border dress_pink🩷 大人気のマルチボーダードレス" },
+    { "code": "DYUKCYNPGbQ", "taken_at": 1778752800, "media_type": 2, "like_count": 10, "comment_count": 0, "play_count": 1438, "caption": "multi border ringer t-shirts_grey 🩶 首元と袖口にパイピング" },
+    { "code": "DYMigwzEt1N", "taken_at": 1778497200, "media_type": 8, "like_count": 12, "comment_count": 0, "play_count": null, "caption": "Club ooju s/s T-shirts ivory🤍 \"make it playful!!\"" },
+    { "code": "DYHqWu-EqnT", "taken_at": 1778333577, "media_type": 8, "like_count": 33, "comment_count": 0, "play_count": null, "caption": "multi border ringer T-shirts 🌈 色違いで楽しむリンクコーデ" },
+    { "code": "DX_qi_evJZN", "taken_at": 1778065200, "media_type": 2, "like_count": 48, "comment_count": 11, "play_count": 6732, "caption": "multi border dress🌈 走って、笑って（こどもの日キャンペーン）" },
+    { "code": "DX9FuPtEqrg", "taken_at": 1777978800, "media_type": 8, "like_count": 250, "comment_count": 124, "play_count": null, "caption": "こどもの日。今日も元気に走って、笑って、夢中で遊ぶきみへ。" },
+    { "code": "DX6uoOvEol1", "taken_at": 1777899600, "media_type": 8, "like_count": 12, "comment_count": 0, "play_count": null, "caption": "pile f/s T-shirts dark purple🍇 ふんわり軽い着心地" },
+    { "code": "DX1XYPTEscQ", "taken_at": 1777719600, "media_type": 8, "like_count": 12, "comment_count": 0, "play_count": null, "caption": "Club ooju s/s T-shirts blue💙 \"make it playful!!\"" },
+    { "code": "DXwUkKGEgz0", "taken_at": 1777550400, "media_type": 8, "like_count": 10, "comment_count": 0, "play_count": null, "caption": "multi border ringer T-shirts pink🌸 首元と袖口のパイピング" },
+    { "code": "DXrO48FEkCW", "taken_at": 1777379653, "media_type": 8, "like_count": 16, "comment_count": 0, "play_count": null, "caption": "multi border ringer t-shirts_grey🧸" },
+    { "code": "DXlmASJAOxu", "taken_at": 1777190400, "media_type": 8, "like_count": 9, "comment_count": 0, "play_count": null, "caption": "multi border dress oojuの定番、multi borderコレクション" },
+    { "code": "DXgw-3iEgEn", "taken_at": 1777028400, "media_type": 8, "like_count": 29, "comment_count": 0, "play_count": null, "caption": "denim over all_indigo 人気のooju denimコレクション👖" },
+    { "code": "DXbnZC4ANDM", "taken_at": 1776855600, "media_type": 8, "like_count": 10, "comment_count": 0, "play_count": null, "caption": "pile f/s t-shirts_dark purple / pile shorts_dark purple" },
+    { "code": "DXWd1jNElF9", "taken_at": 1776682800, "media_type": 8, "like_count": 24, "comment_count": 0, "play_count": null, "caption": "Club ooju s/s t-shirts_ivory \"Club ooju\"へようこそ🌈" },
+    { "code": "DXRbB-uEhdC", "taken_at": 1776513672, "media_type": 1, "like_count": 16, "comment_count": 0, "play_count": null, "caption": "【ooju.jp がリニューアルしました】pile shorts_pink" }
+  ],
+  "tagged": [
+    { "code": "Dac-ZMZGOuN", "user": "yohsuke.harada", "taken_at": 1783343693, "caption": "撮影していだきました♡ thank you @ooju.official" },
+    { "code": "DaaH-8imTOQ", "user": "504reee", "taken_at": 1783248057, "caption": "@please_call_us_emetan_urutan 👧👶" },
+    { "code": "DaNNiH1n70R", "user": "knt____84", "taken_at": 1782814759, "caption": "こうやって見ると男の子感がかなり出てて…かなたもうすぐ5歳" },
+    { "code": "DaNMsfTn5op", "user": "knt____84", "taken_at": 1782814320, "caption": "🎏🎁 Celebrate kid's day thank you 🎁 ボーダーってピッチによ…" },
+    { "code": "DaMTeuqE3U4", "user": "_uf.rec", "taken_at": 1782784323, "caption": "小学生になってブラックコーデもよくするようになった🌚🖤 プレゼントしていただいたTシャツ" },
+    { "code": "DaMM2njk8dP", "user": "_uf.rec", "taken_at": 1782780849, "caption": "こどもの日キャンペーンに当選して、かわいいTシャ…" },
+    { "code": "DZ91nxrmun1", "user": "moo_su__n", "taken_at": 1782298906, "caption": "border × denim sibling coordination💘🦋🦩" },
+    { "code": "DZ9DcYYGv23", "user": "moo_su__n", "taken_at": 1782272599, "caption": "@ooju.official 🩷" },
+    { "code": "DZ7TUBCmkpN", "user": "moo_su__n", "taken_at": 1782213810, "caption": "こどもの日のプレゼントでいただいたボーダーTシャツ🦩🫧" },
+    { "code": "DZ2OXOsIsIG", "user": "knt____84", "taken_at": 1782043787, "caption": "プレゼント企画に当選してプレゼントしていただいたTシャツ" },
+    { "code": "DZ2Ea0HmVJw", "user": "i_am_12958", "taken_at": 1782038229, "caption": "（キャプションなし）" }
+  ]
+}
