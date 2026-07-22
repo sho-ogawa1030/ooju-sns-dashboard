@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T10:10:55+09:00",
+  "generatedAt": "2026-07-22T10:18:45+09:00",
   "source": "Instagram Web インサイト + Web API (ooju.official)",
   "account": {
     "username": "ooju.official",
-    "followers": 30236,
+    "followers": 30230,
     "following": 0,
     "posts": 702,
     "bioLink": "https://ooju.jp/"
@@ -11,47 +11,47 @@
   "insights": {
     "7": {
       "label": "過去7日間",
-      "views": 59000,
-      "viewsFollowerPct": 60.0,
+      "views": 57000,
+      "viewsFollowerPct": 55.4,
       "reach": 14000,
-      "interactions": 115,
-      "interactionsFollowerPct": 73.9,
-      "actionAccounts": 90,
-      "profileActivity": 824,
-      "profileVisits": 653,
-      "linkTaps": 171,
+      "interactions": 96,
+      "interactionsFollowerPct": 69.8,
+      "actionAccounts": 81,
+      "profileActivity": 808,
+      "profileVisits": 641,
+      "linkTaps": 167,
       "viewSplit": {
-        "ストーリーズ": 62.6,
-        "リール": 35.6,
-        "投稿": 1.7
+        "ストーリーズ": 60.3,
+        "リール": 37.8,
+        "投稿": 1.8
       },
       "interactionSplit": {
-        "投稿": 56.9,
-        "リール": 33.3,
-        "ストーリーズ": 9.8
+        "投稿": 45.7,
+        "リール": 42,
+        "ストーリーズ": 12.3
       }
     },
     "30": {
       "label": "過去30日間",
-      "views": 237000,
-      "viewsFollowerPct": 56.2,
+      "views": 231000,
+      "viewsFollowerPct": 55.2,
       "reach": 32000,
-      "interactions": 536,
-      "interactionsFollowerPct": 61.6,
-      "actionAccounts": 329,
-      "profileActivity": 4316,
-      "profileVisits": 3493,
-      "linkTaps": 823,
+      "interactions": 506,
+      "interactionsFollowerPct": 63,
+      "actionAccounts": 313,
+      "profileActivity": 4216,
+      "profileVisits": 3409,
+      "linkTaps": 807,
       "viewSplit": {
-        "ストーリーズ": 66.1,
-        "リール": 30.3,
-        "投稿": 3.7,
+        "ストーリーズ": 65.3,
+        "リール": 31.1,
+        "投稿": 3.6,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 54.2,
-        "リール": 26.2,
-        "ストーリーズ": 19.6
+        "投稿": 51.7,
+        "リール": 27.7,
+        "ストーリーズ": 20.6
       }
     }
   },
@@ -88,13 +88,13 @@
     },
     {
       "date": "2026-07-22",
-      "followers": 30236,
+      "followers": 30230,
       "posts": 702,
-      "views30": 237000,
+      "views30": 231000,
       "reach30": 32000,
-      "interactions30": 536,
-      "profileVisits30": 3493,
-      "linkTaps30": 823
+      "interactions30": 506,
+      "profileVisits30": 3409,
+      "linkTaps30": 807
     }
   ],
   "posts": [
@@ -120,9 +120,9 @@
       "code": "Da629FXSa0V",
       "taken_at": 1784346673,
       "media_type": 2,
-      "like_count": 12,
+      "like_count": 13,
       "comment_count": 0,
-      "play_count": 4269,
+      "play_count": 4332,
       "caption": "残りわずか！ サマーシーズンに欠かせない軽撥水のナイロンショーツは、 水遊びやレジャーなど、アウトド"
     },
     {
@@ -131,7 +131,7 @@
       "media_type": 2,
       "like_count": 13,
       "comment_count": 0,
-      "play_count": 1639,
+      "play_count": 1681,
       "caption": "大人気のooju pileシリーズ☻ ふんわり軽い着心地で、リラックス感たっぷり✨ おうち時間はもち"
     },
     {
@@ -194,7 +194,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 1,
-      "play_count": 8514,
+      "play_count": 8516,
       "caption": "💚🧡💜 好きな色を、 好きなように着る。 上下の色が違ってもいい。 誰がピンクを着てもいい。 "
     },
     {
@@ -257,7 +257,7 @@
       "media_type": 2,
       "like_count": 20,
       "comment_count": 0,
-      "play_count": 10495,
+      "play_count": 10496,
       "caption": "【2026年newカラーが入荷】 素材やテイストが新しくなったリンガーT-shirtsが登場！！ o"
     },
     {
@@ -425,6 +425,12 @@
   ],
   "tagged": [
     {
+      "code": "DbDEg1hEQeW",
+      "user": "gunjian",
+      "taken_at": 1784621970,
+      "caption": "最近の子と母。 かき氷はあっという間に溶けてしまったけれど、美味しくて楽しかった。 「あっという間"
+    },
+    {
       "code": "Da_ljEXE3Wf",
       "user": "jnpykd",
       "taken_at": 1784505072,
@@ -489,12 +495,6 @@
       "user": "moo_su__n",
       "taken_at": 1782213810,
       "caption": "こどもの日のプレゼントでいただいたボーダーTシャツ🦩🫧"
-    },
-    {
-      "code": "DZ2OXOsIsIG",
-      "user": "knt____84",
-      "taken_at": 1782043787,
-      "caption": "プレゼント企画に当選してプレゼントしていただいたTシャツ"
     }
   ]
 }
