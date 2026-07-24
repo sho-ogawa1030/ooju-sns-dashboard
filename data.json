@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T08:13:19+09:00",
+  "generatedAt": "2026-07-24T08:37:02+09:00",
   "source": "Instagram Web インサイト + Web API (ooju.official)",
   "account": {
     "username": "ooju.official",
-    "followers": 30233,
+    "followers": 30235,
     "following": 0,
     "posts": 702,
     "bioLink": "https://ooju.jp/"
@@ -11,47 +11,47 @@
   "insights": {
     "7": {
       "label": "過去7日間",
-      "views": 54000,
-      "viewsFollowerPct": 51.6,
-      "reach": 14000,
-      "interactions": 92,
-      "interactionsFollowerPct": 68.5,
-      "actionAccounts": 77,
-      "profileActivity": 817,
-      "profileVisits": 651,
-      "linkTaps": 166,
+      "views": 53000,
+      "viewsFollowerPct": 46.7,
+      "reach": 15000,
+      "interactions": 88,
+      "interactionsFollowerPct": 65.9,
+      "actionAccounts": 81,
+      "profileActivity": 882,
+      "profileVisits": 704,
+      "linkTaps": 178,
       "viewSplit": {
-        "ストーリーズ": 58.3,
-        "リール": 40.1,
-        "投稿": 1.5
+        "ストーリーズ": 55.9,
+        "リール": 42.4,
+        "投稿": 1.6
       },
       "interactionSplit": {
-        "投稿": 39,
-        "リール": 45.5,
-        "ストーリーズ": 15.6
+        "投稿": 33.8,
+        "リール": 49.3,
+        "ストーリーズ": 16.9
       }
     },
     "30": {
       "label": "過去30日間",
-      "views": 226000,
-      "viewsFollowerPct": 54.3,
-      "reach": 31000,
-      "interactions": 492,
-      "interactionsFollowerPct": 63.6,
-      "actionAccounts": 305,
-      "profileActivity": 4078,
-      "profileVisits": 3299,
-      "linkTaps": 779,
+      "views": 225000,
+      "viewsFollowerPct": 53.3,
+      "reach": 32000,
+      "interactions": 480,
+      "interactionsFollowerPct": 64.6,
+      "actionAccounts": 300,
+      "profileActivity": 4068,
+      "profileVisits": 3294,
+      "linkTaps": 774,
       "viewSplit": {
-        "ストーリーズ": 63.3,
-        "リール": 33.1,
-        "投稿": 3.7,
+        "ストーリーズ": 62.6,
+        "リール": 33.7,
+        "投稿": 3.6,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 51,
-        "リール": 28.4,
-        "ストーリーズ": 20.6
+        "投稿": 50.7,
+        "リール": 28.9,
+        "ストーリーズ": 20.4
       }
     }
   },
@@ -105,6 +105,16 @@
       "interactions30": 492,
       "profileVisits30": 3299,
       "linkTaps30": 779
+    },
+    {
+      "date": "2026-07-24",
+      "followers": 30235,
+      "posts": 702,
+      "views30": 225000,
+      "reach30": 32000,
+      "interactions30": 480,
+      "profileVisits30": 3294,
+      "linkTaps30": 774
     }
   ],
   "posts": [
@@ -112,10 +122,10 @@
       "code": "Da9x3FgDy3A",
       "taken_at": 1784444418,
       "media_type": 8,
-      "like_count": 7,
+      "like_count": 8,
       "comment_count": 0,
       "play_count": null,
-      "caption": "multi border ringer t-shirts 首元と袖口のパイピングがポイントの リンガ"
+      "caption": "multi border ringer t-shirts\n\n首元と袖口のパイピングがポイントの\nリン"
     },
     {
       "code": "Da7NEF4jQEJ",
@@ -124,70 +134,70 @@
       "like_count": 6,
       "comment_count": 0,
       "play_count": null,
-      "caption": "＼SUMMER SALE 開催中🧡／ 夏のおでかけ支度、もう決まった？ ピンクのサロペットも、ロゴ"
+      "caption": "＼SUMMER SALE 開催中🧡／\n\n夏のおでかけ支度、もう決まった？\n\nピンクのサロペットも、"
     },
     {
       "code": "Da629FXSa0V",
       "taken_at": 1784346673,
       "media_type": 2,
-      "like_count": 13,
+      "like_count": 15,
       "comment_count": 0,
-      "play_count": 4785,
-      "caption": "残りわずか！ サマーシーズンに欠かせない軽撥水のナイロンショーツは、 水遊びやレジャーなど、アウトド"
+      "play_count": 4862,
+      "caption": "残りわずか！\nサマーシーズンに欠かせない軽撥水のナイロンショーツは、\n水遊びやレジャーなど、アウトド"
     },
     {
       "code": "Da4O74VyQPa",
       "taken_at": 1784258580,
       "media_type": 2,
-      "like_count": 14,
+      "like_count": 15,
       "comment_count": 0,
-      "play_count": 1710,
-      "caption": "大人気のooju pileシリーズ☻ ふんわり軽い着心地で、リラックス感たっぷり✨ おうち時間はもち"
+      "play_count": 1733,
+      "caption": "大人気のooju pileシリーズ☻\nふんわり軽い着心地で、リラックス感たっぷり✨\nおうち時間はもち"
     },
     {
       "code": "Da4M0S_DObx",
       "taken_at": 1784257225,
       "media_type": 8,
-      "like_count": 3,
+      "like_count": 4,
       "comment_count": 0,
       "play_count": null,
-      "caption": "haruna kawai x ooju tote bag 👜 haruna kawai さんと作っ"
+      "caption": "haruna kawai x ooju tote bag 👜\n\nharuna kawai さんと作"
     },
     {
       "code": "Da1oAqjjXTN",
       "taken_at": 1784170818,
       "media_type": 8,
-      "like_count": 4,
+      "like_count": 5,
       "comment_count": 0,
       "play_count": null,
-      "caption": "pile setup / t-shirts & shorts 同素材のTシャツとショーツで、上下セッ"
+      "caption": "pile setup / t-shirts & shorts\n\n同素材のTシャツとショーツで、上下セ"
     },
     {
       "code": "DazDNaTjLy8",
       "taken_at": 1784084415,
       "media_type": 8,
-      "like_count": 8,
+      "like_count": 9,
       "comment_count": 0,
       "play_count": null,
-      "caption": "nylon shorts / khaki & beige ☀️ 軽くて、ストレスフリー。 軽撥水のナ"
+      "caption": "nylon shorts / khaki & beige ☀️\n\n軽くて、ストレスフリー。\n軽撥水の"
     },
     {
       "code": "DaweZxOjRlC",
       "taken_at": 1783998009,
       "media_type": 8,
-      "like_count": 8,
+      "like_count": 9,
       "comment_count": 1,
       "play_count": null,
-      "caption": "multi border dress ☀️ 1枚できまる、夏のワンピース。 ポコポコとしたパイル調の"
+      "caption": "multi border dress ☀️\n\n1枚できまる、夏のワンピース。\nポコポコとしたパイル調"
     },
     {
       "code": "DauiyN4Ek_J",
       "taken_at": 1783933198,
       "media_type": 8,
-      "like_count": 17,
+      "like_count": 21,
       "comment_count": 0,
       "play_count": null,
-      "caption": "club ooju s/s t-shirts 背中に「make it playful」。 遊び心をそ"
+      "caption": "club ooju s/s t-shirts\n\n背中に「make it playful」。\n遊び心を"
     },
     {
       "code": "DaNSQz3EgDy",
@@ -196,7 +206,7 @@
       "like_count": 12,
       "comment_count": 0,
       "play_count": null,
-      "caption": "📢✨ ooju SUMMER SALE START ✨📢 ＼新作も全部SALE対象／ 気になって"
+      "caption": "📢✨ ooju SUMMER SALE START ✨📢\n\n＼新作も全部SALE対象／\n\n気にな"
     },
     {
       "code": "DZ_-yLVvuG2",
@@ -204,8 +214,8 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 1,
-      "play_count": 8834,
-      "caption": "💚🧡💜 好きな色を、 好きなように着る。 上下の色が違ってもいい。 誰がピンクを着てもいい。 "
+      "play_count": 8893,
+      "caption": "💚🧡💜\n\n好きな色を、\n好きなように着る。\n\n上下の色が違ってもいい。\n誰がピンクを着てもいい"
     },
     {
       "code": "DZzbd4NnDz-",
@@ -214,7 +224,7 @@
       "like_count": 15,
       "comment_count": 0,
       "play_count": null,
-      "caption": "💚新色beige & green🧡 11歳と5歳の姉妹で同じサイズ4を着用👭 今日は交換！なん"
+      "caption": "💚新色beige & green🧡\n11歳と5歳の姉妹で同じサイズ4を着用👭\n\n今日は交換！な"
     },
     {
       "code": "DZtvf21ErWB",
@@ -223,7 +233,7 @@
       "like_count": 13,
       "comment_count": 0,
       "play_count": null,
-      "caption": "人気のblue全サイズあります✨ 人気のclub ooju Tシャツ☻ 心おどるカラーリングがおしゃ"
+      "caption": "人気のblue全サイズあります✨\n\n人気のclub ooju Tシャツ☻\n心おどるカラーリングがおし"
     },
     {
       "code": "DZjqAw8kjb6",
@@ -232,7 +242,7 @@
       "like_count": 16,
       "comment_count": 0,
       "play_count": null,
-      "caption": "新色💚 multi border ringer t-shirts green ヴィンテージスポーツ"
+      "caption": "新色💚\nmulti border ringer t-shirts green\n\nヴィンテージスポー"
     },
     {
       "code": "DZehDEgEky5",
@@ -241,7 +251,7 @@
       "like_count": 9,
       "comment_count": 0,
       "play_count": null,
-      "caption": "着心地最高のooju pile が再入荷 柔らかい肌触りで思わず抱きしめたくなるpile 人気でほと"
+      "caption": "着心地最高のooju pile が再入荷\n\n柔らかい肌触りで思わず抱きしめたくなるpile\n人気でほ"
     },
     {
       "code": "DZZW5tekrAs",
@@ -250,7 +260,7 @@
       "like_count": 31,
       "comment_count": 0,
       "play_count": null,
-      "caption": "【🆕multi border ringer t-shirts】 2026年newカラーbeigeが"
+      "caption": "【🆕multi border ringer t-shirts】\n\n2026年newカラーbeige"
     },
     {
       "code": "DZWyI1AklxO",
@@ -259,7 +269,7 @@
       "like_count": 69,
       "comment_count": 0,
       "play_count": null,
-      "caption": "【お待たせしました♡】 人気で完売していたoojuのnylon palopetteが各色再入荷致しま"
+      "caption": "【お待たせしました♡】\n\n人気で完売していたoojuのnylon palopetteが各色再入荷致し"
     },
     {
       "code": "DZUNTgavr2F",
@@ -267,8 +277,8 @@
       "media_type": 2,
       "like_count": 20,
       "comment_count": 0,
-      "play_count": 10496,
-      "caption": "【2026年newカラーが入荷】 素材やテイストが新しくなったリンガーT-shirtsが登場！！ o"
+      "play_count": 10498,
+      "caption": "【2026年newカラーが入荷】\n\n素材やテイストが新しくなったリンガーT-shirtsが登場！！\n"
     },
     {
       "code": "DZPex_lEl8m",
@@ -277,7 +287,7 @@
       "like_count": 17,
       "comment_count": 0,
       "play_count": null,
-      "caption": "pile f/s T-shirts navy🟦 大人気のooju pileシリーズが待望の再入荷☻"
+      "caption": "pile f/s T-shirts navy🟦\n\n大人気のooju pileシリーズが待望の再入荷"
     },
     {
       "code": "DZCnO5DEmLf",
@@ -286,7 +296,7 @@
       "like_count": 14,
       "comment_count": 0,
       "play_count": null,
-      "caption": "multi border ringer t-shirts_pink 🌸 首元と袖口にパイピングを施"
+      "caption": "multi border ringer t-shirts_pink 🌸\n\n首元と袖口にパイピングを"
     },
     {
       "code": "DY4junVkuCb",
@@ -295,7 +305,7 @@
       "like_count": 37,
       "comment_count": 0,
       "play_count": null,
-      "caption": "denim over all_indigo👖 o大人気のオーバーオールシリーズ。 ほどよいストレッ"
+      "caption": "denim over all_indigo👖\n\no大人気のオーバーオールシリーズ。\nほどよいストレ"
     },
     {
       "code": "DYw0BhPksas",
@@ -304,7 +314,7 @@
       "like_count": 12,
       "comment_count": 0,
       "play_count": null,
-      "caption": "ooju jeans type2_blue 💙 大人気のooju jeansは ワイドシルエットに"
+      "caption": "ooju jeans type2_blue 💙\n\n大人気のooju jeansは\nワイドシルエット"
     },
     {
       "code": "DYmZV53kvcE",
@@ -313,7 +323,7 @@
       "like_count": 13,
       "comment_count": 0,
       "play_count": null,
-      "caption": "multi border dress_blue🟦 大人気のマルチボーダードレス ポコポコ素材×夏映"
+      "caption": "multi border dress_blue🟦\n\n大人気のマルチボーダードレス\nポコポコ素材×夏"
     },
     {
       "code": "DYhWoXsFtBz",
@@ -322,7 +332,7 @@
       "like_count": 13,
       "comment_count": 0,
       "play_count": null,
-      "caption": "pile shorts_pink 軽やかでリラックス感のある、快適な履き心地が魅力のパイルシリーズ。"
+      "caption": "pile shorts_pink　\n\n軽やかでリラックス感のある、快適な履き心地が魅力のパイルシリー"
     },
     {
       "code": "DYa3r2Okmys",
@@ -331,7 +341,7 @@
       "like_count": 9,
       "comment_count": 0,
       "play_count": null,
-      "caption": "multi border dress_pink🩷 大人気のマルチボーダードレス ポコポコ素材×夏映"
+      "caption": "multi border dress_pink🩷\n\n大人気のマルチボーダードレス\nポコポコ素材×夏"
     },
     {
       "code": "DYUKCYNPGbQ",
@@ -339,8 +349,8 @@
       "media_type": 2,
       "like_count": 10,
       "comment_count": 0,
-      "play_count": 1445,
-      "caption": "multi border ringer t-shirts_grey 🩶 首元と袖口にパイピングを施"
+      "play_count": 1446,
+      "caption": "multi border ringer t-shirts_grey 🩶\n\n首元と袖口にパイピングを"
     },
     {
       "code": "DYMigwzEt1N",
@@ -349,7 +359,7 @@
       "like_count": 12,
       "comment_count": 0,
       "play_count": null,
-      "caption": "Club ooju s/s T-shirts ivory🤍 “make it playful!!”"
+      "caption": "Club ooju s/s T-shirts　ivory🤍\n\n“make it playful!!"
     },
     {
       "code": "DYHqWu-EqnT",
@@ -358,7 +368,7 @@
       "like_count": 33,
       "comment_count": 0,
       "play_count": null,
-      "caption": "multi border ringer T-shirts 🌈 色違いで楽しむリンクコーデがとにかく"
+      "caption": "multi border ringer T-shirts 🌈\n\n色違いで楽しむリンクコーデがとにか"
     },
     {
       "code": "DX_qi_evJZN",
@@ -366,8 +376,8 @@
       "media_type": 2,
       "like_count": 48,
       "comment_count": 11,
-      "play_count": 6741,
-      "caption": "※こちらのキャンペーンは終了しています☻ multi border dress🌈 走って、笑って夏"
+      "play_count": 6742,
+      "caption": "※こちらのキャンペーンは終了しています☻\n\nmulti border dress🌈\n\n走って、笑っ"
     },
     {
       "code": "DX9FuPtEqrg",
@@ -376,7 +386,7 @@
       "like_count": 250,
       "comment_count": 124,
       "play_count": null,
-      "caption": "こどもの日。 今日も元気に走って、笑って、夢中で遊ぶきみへ。 そのまっすぐな毎日が、何よりの贈りもの"
+      "caption": "こどもの日。\n\n今日も元気に走って、笑って、夢中で遊ぶきみへ。\n\nそのまっすぐな毎日が、何よりの贈り"
     },
     {
       "code": "DX6uoOvEol1",
@@ -385,7 +395,7 @@
       "like_count": 12,
       "comment_count": 0,
       "play_count": null,
-      "caption": "pile f/s T-shirts dark purple🍇 ふんわり軽い着心地で、リラックス感た"
+      "caption": "pile f/s T-shirts dark purple🍇\n\nふんわり軽い着心地で、リラックス感"
     },
     {
       "code": "DX1XYPTEscQ",
@@ -394,7 +404,7 @@
       "like_count": 12,
       "comment_count": 0,
       "play_count": null,
-      "caption": "Club ooju s/s T-shirts blue💙 “make it playful!!” "
+      "caption": "Club ooju s/s T-shirts blue💙\n\n“make it playful!!”"
     },
     {
       "code": "DXwUkKGEgz0",
@@ -403,7 +413,7 @@
       "like_count": 10,
       "comment_count": 0,
       "play_count": null,
-      "caption": "multi border ringer T-shirts pink🌸 首元と袖口のパイピングがポイ"
+      "caption": "multi border ringer T-shirts　pink🌸\n\n首元と袖口のパイピングがポ"
     },
     {
       "code": "DXrO48FEkCW",
@@ -412,7 +422,7 @@
       "like_count": 16,
       "comment_count": 0,
       "play_count": null,
-      "caption": "multi border ringer t-shirts_grey🧸 大人気のmulti bord"
+      "caption": "multi border ringer t-shirts_grey🧸\n大人気のmulti bord"
     },
     {
       "code": "DXlmASJAOxu",
@@ -421,7 +431,7 @@
       "like_count": 9,
       "comment_count": 0,
       "play_count": null,
-      "caption": "\"multi border dress oojuの定番、multi borderコレクションからドレ"
+      "caption": "\"multi border dress　\noojuの定番、multi borderコレクションからド"
     },
     {
       "code": "DXgw-3iEgEn",
@@ -430,7 +440,7 @@
       "like_count": 29,
       "comment_count": 0,
       "play_count": null,
-      "caption": "denim over all_indigo 人気のooju denimコレクション👖 程よいストレ"
+      "caption": "denim over all_indigo　\n人気のooju denimコレクション👖\n程よいスト"
     }
   ],
   "tagged": [
