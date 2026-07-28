@@ -23,12 +23,21 @@
     </div>
   </header>
 
+  <section class="summary" id="summary" aria-label="ここ数日の要約"></section>
+
   <div class="seg" role="tablist" aria-label="集計期間">
     <button id="btn7" onclick="setPeriod('7')">過去7日間</button>
     <button id="btn30" onclick="setPeriod('30')">過去30日間</button>
   </div>
 
   <div class="tiles" id="tiles"></div>
+
+  <details class="data-view">
+    <summary>記録データを表で見る</summary>
+    <div class="table-panel">
+      <table class="posts" id="histTable"></table>
+    </div>
+  </details>
 
   <div class="sec"><h2>推移</h2><span class="sub">更新のたびにデータが蓄積されます</span></div>
   <div class="grid-2">
