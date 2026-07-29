@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-28T09:01:41+09:00",
+  "generatedAt": "2026-07-29T13:20:13+09:00",
   "source": "Instagram Web インサイト + Web API (ooju.official)",
   "account": {
     "username": "ooju.official",
-    "followers": 30222,
+    "followers": 30224,
     "following": 0,
     "posts": 702,
     "bioLink": "https://ooju.jp/"
@@ -11,48 +11,48 @@
   "insights": {
     "7": {
       "label": "過去7日間",
-      "views": 36000,
-      "viewsFollowerPct": 47.8,
-      "reach": 10000,
+      "views": 33000,
+      "viewsFollowerPct": 51.3,
+      "reach": 9515,
       "interactions": 47,
-      "interactionsFollowerPct": 80.9,
-      "actionAccounts": 34,
-      "profileActivity": 697,
-      "profileVisits": 562,
-      "linkTaps": 135,
+      "interactionsFollowerPct": 78.7,
+      "actionAccounts": 33,
+      "profileActivity": 634,
+      "profileVisits": 517,
+      "linkTaps": 117,
       "viewSplit": {
-        "ストーリーズ": 76.7,
-        "リール": 22.6,
-        "投稿": 0.7,
+        "ストーリーズ": 75.6,
+        "リール": 22.3,
+        "投稿": 2.1,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 54.5,
-        "リール": 24.2,
-        "ストーリーズ": 21.2
+        "投稿": 58.8,
+        "リール": 20.6,
+        "ストーリーズ": 20.6
       }
     },
     "30": {
       "label": "過去30日間",
-      "views": 208000,
-      "viewsFollowerPct": 54,
-      "reach": 29000,
-      "interactions": 391,
-      "interactionsFollowerPct": 67,
-      "actionAccounts": 253,
-      "profileActivity": 3617,
-      "profileVisits": 2914,
-      "linkTaps": 703,
+      "views": 203000,
+      "viewsFollowerPct": 54.5,
+      "reach": 28000,
+      "interactions": 371,
+      "interactionsFollowerPct": 67.9,
+      "actionAccounts": 240,
+      "profileActivity": 3511,
+      "profileVisits": 2840,
+      "linkTaps": 671,
       "viewSplit": {
-        "ストーリーズ": 65.9,
-        "リール": 30.4,
-        "投稿": 3.9,
+        "ストーリーズ": 66.1,
+        "リール": 29.7,
+        "投稿": 4.2,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 54.3,
-        "リール": 28.3,
-        "ストーリーズ": 17.4
+        "投稿": 55.6,
+        "リール": 28.2,
+        "ストーリーズ": 16.2
       }
     }
   },
@@ -141,6 +141,21 @@
       "interactions7": 47,
       "profileVisits7": 562,
       "linkTaps7": 135
+    },
+    {
+      "date": "2026-07-29",
+      "followers": 30224,
+      "posts": 702,
+      "views30": 203000,
+      "reach30": 28000,
+      "interactions30": 371,
+      "profileVisits30": 2840,
+      "linkTaps30": 671,
+      "views7": 33000,
+      "reach7": 9515,
+      "interactions7": 47,
+      "profileVisits7": 517,
+      "linkTaps7": 117
     }
   ],
   "posts": [
@@ -168,7 +183,7 @@
       "media_type": 2,
       "like_count": 17,
       "comment_count": 0,
-      "play_count": 5088,
+      "play_count": 5165,
       "caption": "残りわずか！\nサマーシーズンに欠かせない軽撥水のナイロンショーツは、\n水遊びやレジャーなど、アウトド"
     },
     {
@@ -177,14 +192,14 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 0,
-      "play_count": 1801,
+      "play_count": 1815,
       "caption": "大人気のooju pileシリーズ☻\nふんわり軽い着心地で、リラックス感たっぷり✨\nおうち時間はもち"
     },
     {
       "code": "Da4M0S_DObx",
       "taken_at": 1784257225,
       "media_type": 8,
-      "like_count": 4,
+      "like_count": 5,
       "comment_count": 0,
       "play_count": null,
       "caption": "haruna kawai x ooju tote bag 👜\n\nharuna kawai さんと作"
@@ -211,7 +226,7 @@
       "code": "DaweZxOjRlC",
       "taken_at": 1783998009,
       "media_type": 8,
-      "like_count": 11,
+      "like_count": 12,
       "comment_count": 1,
       "play_count": null,
       "caption": "multi border dress ☀️\n\n1枚できまる、夏のワンピース。\nポコポコとしたパイル調"
@@ -274,7 +289,7 @@
       "code": "DZehDEgEky5",
       "taken_at": 1781247901,
       "media_type": 8,
-      "like_count": 9,
+      "like_count": 10,
       "comment_count": 0,
       "play_count": null,
       "caption": "着心地最高のooju pile が再入荷\n\n柔らかい肌触りで思わず抱きしめたくなるpile\n人気でほ"
@@ -303,7 +318,7 @@
       "media_type": 2,
       "like_count": 20,
       "comment_count": 0,
-      "play_count": 10810,
+      "play_count": 10811,
       "caption": "【2026年newカラーが入荷】\n\n素材やテイストが新しくなったリンガーT-shirtsが登場！！\n"
     },
     {
