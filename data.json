@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T09:07:10+09:00",
+  "generatedAt": "2026-08-02T09:40:00+09:00",
   "source": "Instagram Web インサイト + Web API (ooju.official)",
   "account": {
     "username": "ooju.official",
@@ -11,48 +11,48 @@
   "insights": {
     "7": {
       "label": "過去7日間",
-      "views": 32000,
-      "viewsFollowerPct": 57.3,
-      "reach": 8619,
-      "interactions": 46,
-      "interactionsFollowerPct": 69.6,
-      "actionAccounts": 35,
-      "profileActivity": 626,
-      "profileVisits": 511,
-      "linkTaps": 115,
+      "views": 28000,
+      "viewsFollowerPct": 65.1,
+      "reach": 7310,
+      "interactions": 35,
+      "interactionsFollowerPct": 62.9,
+      "actionAccounts": 28,
+      "profileActivity": 555,
+      "profileVisits": 446,
+      "linkTaps": 109,
       "viewSplit": {
-        "ストーリーズ": 79,
-        "リール": 18.7,
-        "投稿": 2.1,
+        "ストーリーズ": 72.6,
+        "リール": 24.4,
+        "投稿": 3,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 71.9,
-        "リール": 18.8,
-        "ストーリーズ": 9.4
+        "投稿": 50,
+        "リール": 26.9,
+        "ストーリーズ": 23.1
       }
     },
     "30": {
       "label": "過去30日間",
-      "views": 196000,
-      "viewsFollowerPct": 54.6,
-      "reach": 27000,
-      "interactions": 341,
-      "interactionsFollowerPct": 68.3,
-      "actionAccounts": 224,
-      "profileActivity": 3409,
-      "profileVisits": 2751,
-      "linkTaps": 658,
+      "views": 183000,
+      "viewsFollowerPct": 54.8,
+      "reach": 26000,
+      "interactions": 293,
+      "interactionsFollowerPct": 71.3,
+      "actionAccounts": 201,
+      "profileActivity": 3099,
+      "profileVisits": 2476,
+      "linkTaps": 623,
       "viewSplit": {
-        "ストーリーズ": 66.5,
-        "リール": 29.3,
-        "投稿": 4.2,
+        "ストーリーズ": 64.6,
+        "リール": 30.8,
+        "投稿": 4.5,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 55.4,
-        "リール": 29.5,
-        "ストーリーズ": 15.1
+        "投稿": 49.8,
+        "リール": 35.3,
+        "ストーリーズ": 14.9
       }
     }
   },
@@ -171,6 +171,21 @@
       "interactions7": 46,
       "profileVisits7": 511,
       "linkTaps7": 115
+    },
+    {
+      "date": "2026-08-02",
+      "followers": 30220,
+      "posts": 703,
+      "views30": 183000,
+      "reach30": 26000,
+      "interactions30": 293,
+      "profileVisits30": 2476,
+      "linkTaps30": 623,
+      "views7": 28000,
+      "reach7": 7310,
+      "interactions7": 35,
+      "profileVisits7": 446,
+      "linkTaps7": 109
     }
   ],
   "posts": [
@@ -178,10 +193,10 @@
       "code": "DbXwaXqS7Kk",
       "taken_at": 1785316099,
       "media_type": 2,
-      "like_count": 4,
+      "like_count": 6,
       "comment_count": 0,
-      "play_count": 1441,
-      "caption": ""
+      "play_count": 1709,
+      "caption": "multi border ringer t-shirts\n\n配色と太さのリズムにこだわった、\nooj"
     },
     {
       "code": "Da9x3FgDy3A",
@@ -207,7 +222,7 @@
       "media_type": 2,
       "like_count": 17,
       "comment_count": 0,
-      "play_count": 5216,
+      "play_count": 5912,
       "caption": "残りわずか！\nサマーシーズンに欠かせない軽撥水のナイロンショーツは、\n水遊びやレジャーなど、アウトド"
     },
     {
@@ -216,7 +231,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 0,
-      "play_count": 1844,
+      "play_count": 1870,
       "caption": "大人気のooju pileシリーズ☻\nふんわり軽い着心地で、リラックス感たっぷり✨\nおうち時間はもち"
     },
     {
@@ -279,7 +294,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 1,
-      "play_count": 8901,
+      "play_count": 8907,
       "caption": "💚🧡💜\n\n好きな色を、\n好きなように着る。\n\n上下の色が違ってもいい。\n誰がピンクを着てもいい"
     },
     {
@@ -342,7 +357,7 @@
       "media_type": 2,
       "like_count": 20,
       "comment_count": 0,
-      "play_count": 10813,
+      "play_count": 10817,
       "caption": "【2026年newカラーが入荷】\n\n素材やテイストが新しくなったリンガーT-shirtsが登場！！\n"
     },
     {
@@ -501,6 +516,12 @@
   ],
   "tagged": [
     {
+      "code": "DbctjBbHRRe",
+      "user": "manamiiee",
+      "taken_at": 1785482344,
+      "caption": "ｍｙ皐月〜🪻\n\nなんだかバタバタだったひと月 (ﾟoﾟ;;\n1枚目は心霊写真じゃなくすちゃンの手で"
+    },
+    {
       "code": "DbDEg1hEQeW",
       "user": "gunjian",
       "taken_at": 1784621970,
@@ -565,12 +586,6 @@
       "user": "moo_su__n",
       "taken_at": 1782272599,
       "caption": "@ooju.official 🩷"
-    },
-    {
-      "code": "DZ7TUBCmkpN",
-      "user": "moo_su__n",
-      "taken_at": 1782213810,
-      "caption": "こどもの日のプレゼントでいただいたボーダーTシャツ🦩🫧"
     }
   ]
 }
