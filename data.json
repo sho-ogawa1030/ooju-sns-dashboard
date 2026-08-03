@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-02T09:40:00+09:00",
+  "generatedAt": "2026-08-03T09:40:00+09:00",
   "source": "Instagram Web インサイト + Web API (ooju.official)",
   "account": {
     "username": "ooju.official",
-    "followers": 30220,
+    "followers": 30227,
     "following": 0,
     "posts": 703,
     "bioLink": "https://ooju.jp/"
@@ -12,47 +12,47 @@
     "7": {
       "label": "過去7日間",
       "views": 28000,
-      "viewsFollowerPct": 65.1,
-      "reach": 7310,
-      "interactions": 35,
-      "interactionsFollowerPct": 62.9,
-      "actionAccounts": 28,
-      "profileActivity": 555,
-      "profileVisits": 446,
-      "linkTaps": 109,
+      "viewsFollowerPct": 59.5,
+      "reach": 7595,
+      "interactions": 32,
+      "interactionsFollowerPct": 40.6,
+      "actionAccounts": 30,
+      "profileActivity": 609,
+      "profileVisits": 477,
+      "linkTaps": 132,
       "viewSplit": {
-        "ストーリーズ": 72.6,
-        "リール": 24.4,
-        "投稿": 3,
+        "ストーリーズ": 69.1,
+        "リール": 28,
+        "投稿": 2.9,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 50,
-        "リール": 26.9,
-        "ストーリーズ": 23.1
+        "投稿": 45,
+        "リール": 30,
+        "ストーリーズ": 25
       }
     },
     "30": {
       "label": "過去30日間",
-      "views": 183000,
-      "viewsFollowerPct": 54.8,
+      "views": 179000,
+      "viewsFollowerPct": 54.7,
       "reach": 26000,
-      "interactions": 293,
-      "interactionsFollowerPct": 71.3,
-      "actionAccounts": 201,
-      "profileActivity": 3099,
-      "profileVisits": 2476,
-      "linkTaps": 623,
+      "interactions": 275,
+      "interactionsFollowerPct": 68.7,
+      "actionAccounts": 195,
+      "profileActivity": 3096,
+      "profileVisits": 2470,
+      "linkTaps": 626,
       "viewSplit": {
-        "ストーリーズ": 64.6,
-        "リール": 30.8,
-        "投稿": 4.5,
+        "ストーリーズ": 67.8,
+        "リール": 27.5,
+        "投稿": 4.7,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 49.8,
-        "リール": 35.3,
-        "ストーリーズ": 14.9
+        "投稿": 53.2,
+        "リール": 31.5,
+        "ストーリーズ": 15.3
       }
     }
   },
@@ -186,6 +186,21 @@
       "interactions7": 35,
       "profileVisits7": 446,
       "linkTaps7": 109
+    },
+    {
+      "date": "2026-08-03",
+      "followers": 30227,
+      "posts": 703,
+      "views30": 179000,
+      "reach30": 26000,
+      "interactions30": 275,
+      "profileVisits30": 2470,
+      "linkTaps30": 626,
+      "views7": 28000,
+      "reach7": 7595,
+      "interactions7": 32,
+      "profileVisits7": 477,
+      "linkTaps7": 132
     }
   ],
   "posts": [
@@ -195,14 +210,14 @@
       "media_type": 2,
       "like_count": 6,
       "comment_count": 0,
-      "play_count": 1709,
+      "play_count": 1736,
       "caption": "multi border ringer t-shirts\n\n配色と太さのリズムにこだわった、\nooj"
     },
     {
       "code": "Da9x3FgDy3A",
       "taken_at": 1784444418,
       "media_type": 8,
-      "like_count": 10,
+      "like_count": 11,
       "comment_count": 0,
       "play_count": null,
       "caption": "multi border ringer t-shirts\n\n首元と袖口のパイピングがポイントの\nリン"
@@ -222,7 +237,7 @@
       "media_type": 2,
       "like_count": 17,
       "comment_count": 0,
-      "play_count": 5912,
+      "play_count": 6095,
       "caption": "残りわずか！\nサマーシーズンに欠かせない軽撥水のナイロンショーツは、\n水遊びやレジャーなど、アウトド"
     },
     {
@@ -231,7 +246,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 0,
-      "play_count": 1870,
+      "play_count": 1875,
       "caption": "大人気のooju pileシリーズ☻\nふんわり軽い着心地で、リラックス感たっぷり✨\nおうち時間はもち"
     },
     {
@@ -294,7 +309,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 1,
-      "play_count": 8907,
+      "play_count": 8908,
       "caption": "💚🧡💜\n\n好きな色を、\n好きなように着る。\n\n上下の色が違ってもいい。\n誰がピンクを着てもいい"
     },
     {
@@ -357,7 +372,7 @@
       "media_type": 2,
       "like_count": 20,
       "comment_count": 0,
-      "play_count": 10817,
+      "play_count": 10818,
       "caption": "【2026年newカラーが入荷】\n\n素材やテイストが新しくなったリンガーT-shirtsが登場！！\n"
     },
     {
