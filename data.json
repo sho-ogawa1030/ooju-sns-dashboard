@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-09T03:05:00+09:00",
+  "generatedAt": "2026-08-10T07:30:06+09:00",
   "source": "Instagram Web インサイト + Web API (ooju.official)",
   "account": {
     "username": "ooju.official",
-    "followers": 30224,
+    "followers": 30229,
     "following": 0,
     "posts": 705,
     "bioLink": "https://ooju.jp/"
@@ -11,48 +11,48 @@
   "insights": {
     "7": {
       "label": "過去7日間",
-      "views": 25000,
-      "viewsFollowerPct": 46.2,
-      "reach": 7837,
-      "interactions": 46,
-      "interactionsFollowerPct": 47.8,
+      "views": 28000,
+      "viewsFollowerPct": 44.9,
+      "reach": 8703,
+      "interactions": 51,
+      "interactionsFollowerPct": 66.7,
       "actionAccounts": 40,
-      "profileActivity": 751,
-      "profileVisits": 586,
-      "linkTaps": 165,
+      "profileActivity": 815,
+      "profileVisits": 629,
+      "linkTaps": 186,
       "viewSplit": {
-        "ストーリーズ": 82.3,
-        "リール": 16.6,
-        "投稿": 1.1,
+        "ストーリーズ": 63.6,
+        "リール": 35.5,
+        "投稿": 0.9,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 62.1,
-        "ストーリーズ": 20.7,
-        "リール": 17.2
+        "投稿": 44.7,
+        "リール": 39.5,
+        "ストーリーズ": 15.8
       }
     },
     "30": {
       "label": "過去30日間",
-      "views": 163000,
-      "viewsFollowerPct": 54.7,
+      "views": 165000,
+      "viewsFollowerPct": 54.3,
       "reach": 24000,
-      "interactions": 259,
-      "interactionsFollowerPct": 67.6,
+      "interactions": 260,
+      "interactionsFollowerPct": 68.8,
       "actionAccounts": 179,
-      "profileActivity": 3088,
-      "profileVisits": 2446,
-      "linkTaps": 642,
+      "profileActivity": 3187,
+      "profileVisits": 2512,
+      "linkTaps": 675,
       "viewSplit": {
-        "ストーリーズ": 71.9,
-        "リール": 25.7,
-        "投稿": 2.4,
+        "ストーリーズ": 68.2,
+        "リール": 29.5,
+        "投稿": 2.3,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 56.1,
-        "リール": 29.1,
-        "ストーリーズ": 14.8
+        "投稿": 53,
+        "リール": 32.7,
+        "ストーリーズ": 14.4
       }
     }
   },
@@ -276,6 +276,21 @@
       "interactions7": 46,
       "profileVisits7": 586,
       "linkTaps7": 165
+    },
+    {
+      "date": "2026-08-10",
+      "followers": 30229,
+      "posts": 705,
+      "views30": 165000,
+      "reach30": 24000,
+      "interactions30": 260,
+      "profileVisits30": 2512,
+      "linkTaps30": 675,
+      "views7": 28000,
+      "reach7": 8703,
+      "interactions7": 51,
+      "profileVisits7": 629,
+      "linkTaps7": 186
     }
   ],
   "posts": [
@@ -283,9 +298,9 @@
       "code": "DbxRzniS30d",
       "taken_at": 1786172472,
       "media_type": 2,
-      "like_count": 8,
+      "like_count": 10,
       "comment_count": 0,
-      "play_count": 2406,
+      "play_count": 2729,
       "caption": "夏のワードローブ、あと一枚だけ足すなら。\noojuは、日常に少しだけ余白をつくる、小さな服を提案して"
     },
     {
@@ -303,7 +318,7 @@
       "media_type": 2,
       "like_count": 8,
       "comment_count": 0,
-      "play_count": 1881,
+      "play_count": 1910,
       "caption": "multi border ringer t-shirts\n\n配色と太さのリズムにこだわった、\nooj"
     },
     {
@@ -330,7 +345,7 @@
       "media_type": 2,
       "like_count": 17,
       "comment_count": 0,
-      "play_count": 6404,
+      "play_count": 6485,
       "caption": "残りわずか！\nサマーシーズンに欠かせない軽撥水のナイロンショーツは、\n水遊びやレジャーなど、アウトド"
     },
     {
@@ -339,7 +354,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 0,
-      "play_count": 1895,
+      "play_count": 1896,
       "caption": "大人気のooju pileシリーズ☻\nふんわり軽い着心地で、リラックス感たっぷり✨\nおうち時間はもち"
     },
     {
@@ -402,7 +417,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 1,
-      "play_count": 8916,
+      "play_count": 8917,
       "caption": "💚🧡💜\n\n好きな色を、\n好きなように着る。\n\n上下の色が違ってもいい。\n誰がピンクを着てもいい"
     },
     {
@@ -465,7 +480,7 @@
       "media_type": 2,
       "like_count": 20,
       "comment_count": 0,
-      "play_count": 10823,
+      "play_count": 10825,
       "caption": "【2026年newカラーが入荷】\n\n素材やテイストが新しくなったリンガーT-shirtsが登場！！\n"
     },
     {
@@ -520,7 +535,7 @@
       "like_count": 13,
       "comment_count": 0,
       "play_count": null,
-      "caption": "pile shorts_pink　\n\n軽やかでリラックス感のある、快適な履き心地が魅力のパイルシリー"
+      "caption": "pile shorts_pink \n\n軽やかでリラックス感のある、快適な履き心地が魅力のパイルシリー"
     },
     {
       "code": "DYa3r2Okmys",
@@ -537,7 +552,7 @@
       "media_type": 2,
       "like_count": 10,
       "comment_count": 0,
-      "play_count": 1450,
+      "play_count": 1451,
       "caption": "multi border ringer t-shirts_grey 🩶\n\n首元と袖口にパイピングを"
     },
     {
@@ -547,7 +562,7 @@
       "like_count": 12,
       "comment_count": 0,
       "play_count": null,
-      "caption": "Club ooju s/s T-shirts　ivory🤍\n\n“make it playful!!"
+      "caption": "Club ooju s/s T-shirts ivory🤍\n\n“make it playful!!"
     },
     {
       "code": "DYHqWu-EqnT",
@@ -564,7 +579,7 @@
       "media_type": 2,
       "like_count": 48,
       "comment_count": 11,
-      "play_count": 7157,
+      "play_count": 7158,
       "caption": "※こちらのキャンペーンは終了しています☻\n\nmulti border dress🌈\n\n走って、笑っ"
     },
     {
@@ -601,7 +616,7 @@
       "like_count": 10,
       "comment_count": 0,
       "play_count": null,
-      "caption": "multi border ringer T-shirts　pink🌸\n\n首元と袖口のパイピングがポ"
+      "caption": "multi border ringer T-shirts pink🌸\n\n首元と袖口のパイピングがポ"
     }
   ],
   "tagged": [
