@@ -1,58 +1,58 @@
 {
-  "generatedAt": "2026-08-11T08:11:00+09:00",
+  "generatedAt": "2026-08-12T08:24:00+09:00",
   "source": "Instagram Web インサイト + Web API (ooju.official)",
   "account": {
     "username": "ooju.official",
-    "followers": 30230,
+    "followers": 30232,
     "following": 0,
-    "posts": 705,
+    "posts": 706,
     "bioLink": "https://ooju.jp/"
   },
   "insights": {
     "7": {
       "label": "過去7日間",
-      "views": 27000,
-      "viewsFollowerPct": 46.4,
-      "reach": 8543,
-      "interactions": 54,
-      "interactionsFollowerPct": 64.8,
-      "actionAccounts": 40,
-      "profileActivity": 818,
-      "profileVisits": 634,
-      "linkTaps": 184,
+      "views": 29000,
+      "viewsFollowerPct": 45.5,
+      "reach": 9111,
+      "interactions": 51,
+      "interactionsFollowerPct": 60.8,
+      "actionAccounts": 39,
+      "profileActivity": 832,
+      "profileVisits": 642,
+      "linkTaps": 190,
       "viewSplit": {
-        "ストーリーズ": 61.9,
-        "リール": 37.2,
+        "ストーリーズ": 56.2,
+        "リール": 42.9,
         "投稿": 0.9,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 46.5,
-        "リール": 41.9,
-        "ストーリーズ": 11.6
+        "投稿": 44.7,
+        "リール": 47.4,
+        "ストーリーズ": 7.9
       }
     },
     "30": {
       "label": "過去30日間",
-      "views": 163000,
-      "viewsFollowerPct": 54.1,
+      "views": 161000,
+      "viewsFollowerPct": 53.8,
       "reach": 25000,
-      "interactions": 262,
-      "interactionsFollowerPct": 69.1,
-      "actionAccounts": 177,
-      "profileActivity": 3203,
-      "profileVisits": 2527,
-      "linkTaps": 676,
+      "interactions": 254,
+      "interactionsFollowerPct": 68.9,
+      "actionAccounts": 171,
+      "profileActivity": 3179,
+      "profileVisits": 2508,
+      "linkTaps": 671,
       "viewSplit": {
-        "ストーリーズ": 68.2,
-        "リール": 29.5,
-        "投稿": 2.2,
+        "ストーリーズ": 67.5,
+        "リール": 30.9,
+        "投稿": 1.6,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 52.9,
-        "リール": 33,
-        "ストーリーズ": 14.1
+        "投稿": 51.5,
+        "リール": 34,
+        "ストーリーズ": 14.5
       }
     }
   },
@@ -306,16 +306,40 @@
       "interactions7": 54,
       "profileVisits7": 634,
       "linkTaps7": 184
+    },
+    {
+      "date": "2026-08-12",
+      "followers": 30232,
+      "posts": 706,
+      "views30": 161000,
+      "reach30": 25000,
+      "interactions30": 254,
+      "profileVisits30": 2508,
+      "linkTaps30": 671,
+      "views7": 29000,
+      "reach7": 9111,
+      "interactions7": 51,
+      "profileVisits7": 642,
+      "linkTaps7": 190
     }
   ],
   "posts": [
     {
+      "code": "Db4fs1iSzRV",
+      "taken_at": 1786414676,
+      "media_type": 2,
+      "like_count": 0,
+      "comment_count": 0,
+      "play_count": 1361,
+      "caption": "seven days, one little wardrobe.\nthe dress for mon"
+    },
+    {
       "code": "DbxRzniS30d",
       "taken_at": 1786172472,
       "media_type": 2,
-      "like_count": 12,
+      "like_count": 13,
       "comment_count": 0,
-      "play_count": 2837,
+      "play_count": 2877,
       "caption": "夏のワードローブ、あと一枚だけ足すなら。\noojuは、日常に少しだけ余白をつくる、小さな服を提案して"
     },
     {
@@ -333,7 +357,7 @@
       "media_type": 2,
       "like_count": 8,
       "comment_count": 0,
-      "play_count": 1943,
+      "play_count": 1973,
       "caption": "multi border ringer t-shirts\n\n配色と太さのリズムにこだわった、\nooj"
     },
     {
@@ -369,7 +393,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 0,
-      "play_count": 1896,
+      "play_count": 1898,
       "caption": "大人気のooju pileシリーズ☻\nふんわり軽い着心地で、リラックス感たっぷり✨\nおうち時間はもち"
     },
     {
@@ -550,7 +574,7 @@
       "like_count": 13,
       "comment_count": 0,
       "play_count": null,
-      "caption": "pile shorts_pink \n\n軽やかでリラックス感のある、快適な履き心地が魅力のパイルシリー"
+      "caption": "pile shorts_pink　\n\n軽やかでリラックス感のある、快適な履き心地が魅力のパイルシリー"
     },
     {
       "code": "DYa3r2Okmys",
@@ -577,7 +601,7 @@
       "like_count": 12,
       "comment_count": 0,
       "play_count": null,
-      "caption": "Club ooju s/s T-shirts ivory🤍\n\n“make it playful!!"
+      "caption": "Club ooju s/s T-shirts　ivory🤍\n\n“make it playful!!"
     },
     {
       "code": "DYHqWu-EqnT",
@@ -594,7 +618,7 @@
       "media_type": 2,
       "like_count": 48,
       "comment_count": 11,
-      "play_count": 7158,
+      "play_count": 7159,
       "caption": "※こちらのキャンペーンは終了しています☻\n\nmulti border dress🌈\n\n走って、笑っ"
     },
     {
@@ -623,15 +647,6 @@
       "comment_count": 0,
       "play_count": null,
       "caption": "Club ooju s/s T-shirts blue💙\n\n“make it playful!!”"
-    },
-    {
-      "code": "DXwUkKGEgz0",
-      "taken_at": 1777550400,
-      "media_type": 8,
-      "like_count": 10,
-      "comment_count": 0,
-      "play_count": null,
-      "caption": "multi border ringer T-shirts pink🌸\n\n首元と袖口のパイピングがポ"
     }
   ],
   "tagged": [
