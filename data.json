@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T10:57:00+09:00",
+  "generatedAt": "2026-08-14T09:07:00+09:00",
   "source": "Instagram Web インサイト + Web API (ooju.official)",
   "account": {
     "username": "ooju.official",
-    "followers": 30229,
+    "followers": 30231,
     "following": 0,
     "posts": 706,
     "bioLink": "https://ooju.jp/"
@@ -11,48 +11,48 @@
   "insights": {
     "7": {
       "label": "過去7日間",
-      "views": 31000,
-      "viewsFollowerPct": 46.6,
-      "reach": 9378,
+      "views": 32000,
+      "viewsFollowerPct": 47.0,
+      "reach": 9543,
       "interactions": 50,
       "interactionsFollowerPct": 62.0,
-      "actionAccounts": 41,
-      "profileActivity": 839,
-      "profileVisits": 646,
-      "linkTaps": 193,
+      "actionAccounts": 42,
+      "profileActivity": 826,
+      "profileVisits": 635,
+      "linkTaps": 191,
       "viewSplit": {
-        "ストーリーズ": 54.6,
-        "リール": 44.6,
-        "投稿": 0.7,
+        "ストーリーズ": 51.2,
+        "リール": 48.0,
+        "投稿": 0.8,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 44.1,
-        "リール": 47.1,
-        "ストーリーズ": 8.8
+        "投稿": 44.4,
+        "リール": 50.0,
+        "ストーリーズ": 5.6
       }
     },
     "30": {
       "label": "過去30日間",
-      "views": 161000,
-      "viewsFollowerPct": 53.3,
+      "views": 156000,
+      "viewsFollowerPct": 51.8,
       "reach": 25000,
-      "interactions": 255,
-      "interactionsFollowerPct": 68.2,
-      "actionAccounts": 173,
-      "profileActivity": 3181,
-      "profileVisits": 2510,
-      "linkTaps": 671,
+      "interactions": 238,
+      "interactionsFollowerPct": 65.1,
+      "actionAccounts": 165,
+      "profileActivity": 3120,
+      "profileVisits": 2458,
+      "linkTaps": 662,
       "viewSplit": {
-        "ストーリーズ": 66.5,
-        "リール": 32,
-        "投稿": 1.5,
+        "ストーリーズ": 64.6,
+        "リール": 33.9,
+        "投稿": 1.6,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 52,
-        "リール": 33.8,
-        "ストーリーズ": 14.1
+        "投稿": 46.7,
+        "リール": 37.8,
+        "ストーリーズ": 15.6
       }
     }
   },
@@ -336,6 +336,21 @@
       "interactions7": 50,
       "profileVisits7": 646,
       "linkTaps7": 193
+    },
+    {
+      "date": "2026-08-14",
+      "followers": 30231,
+      "posts": 706,
+      "views30": 156000,
+      "reach30": 25000,
+      "interactions30": 238,
+      "profileVisits30": 2458,
+      "linkTaps30": 662,
+      "views7": 32000,
+      "reach7": 9543,
+      "interactions7": 50,
+      "profileVisits7": 635,
+      "linkTaps7": 191
     }
   ],
   "posts": [
@@ -343,25 +358,25 @@
       "code": "Db4fs1iSzRV",
       "taken_at": 1786414676,
       "media_type": 2,
-      "like_count": 0,
+      "like_count": 1,
       "comment_count": 0,
-      "play_count": 1462,
+      "play_count": 1493,
       "caption": "seven days, one little wardrobe.\nthe dress for mon"
     },
     {
       "code": "DbxRzniS30d",
       "taken_at": 1786172472,
       "media_type": 2,
-      "like_count": 15,
+      "like_count": 16,
       "comment_count": 0,
-      "play_count": 3398,
+      "play_count": 3504,
       "caption": "夏のワードローブ、あと一枚だけ足すなら。\noojuは、日常に少しだけ余白をつくる、小さな服を提案して"
     },
     {
       "code": "DbvCZyHktfy",
       "taken_at": 1786097258,
       "media_type": 8,
-      "like_count": 10,
+      "like_count": 11,
       "comment_count": 0,
       "play_count": null,
       "caption": "ooju jeans type2 — restock\n\nお待たせしました。\noojuの定番デニム、t"
@@ -399,7 +414,7 @@
       "media_type": 2,
       "like_count": 17,
       "comment_count": 0,
-      "play_count": 6491,
+      "play_count": 6492,
       "caption": "残りわずか！\nサマーシーズンに欠かせない軽撥水のナイロンショーツは、\n水遊びやレジャーなど、アウトド"
     },
     {
@@ -408,7 +423,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 0,
-      "play_count": 1899,
+      "play_count": 2379,
       "caption": "大人気のooju pileシリーズ☻\nふんわり軽い着心地で、リラックス感たっぷり✨\nおうち時間はもち"
     },
     {
