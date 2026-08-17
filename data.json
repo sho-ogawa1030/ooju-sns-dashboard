@@ -1,58 +1,58 @@
 {
-  "generatedAt": "2026-08-15T09:10:00+09:00",
+  "generatedAt": "2026-08-17T07:30:00+09:00",
   "source": "Instagram Web インサイト + Web API (ooju.official)",
   "account": {
     "username": "ooju.official",
-    "followers": 30223,
+    "followers": 30219,
     "following": 0,
-    "posts": 706,
+    "posts": 707,
     "bioLink": "https://ooju.jp/"
   },
   "insights": {
     "7": {
       "label": "過去7日間",
-      "views": 33000,
-      "viewsFollowerPct": 47.6,
-      "reach": 9903,
-      "interactions": 57,
-      "interactionsFollowerPct": 59.6,
-      "actionAccounts": 44,
-      "profileActivity": 815,
-      "profileVisits": 630,
-      "linkTaps": 185,
+      "views": 34000,
+      "viewsFollowerPct": 48.6,
+      "reach": 9734,
+      "interactions": 62,
+      "interactionsFollowerPct": 35.5,
+      "actionAccounts": 52,
+      "profileActivity": 700,
+      "profileVisits": 538,
+      "linkTaps": 162,
       "viewSplit": {
-        "ストーリーズ": 51.7,
-        "リール": 47.9,
-        "投稿": 0.4,
+        "ストーリーズ": 54.9,
+        "リール": 44.5,
+        "投稿": 0.6,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 50.0,
-        "リール": 45.5,
-        "ストーリーズ": 4.5
+        "投稿": 30.0,
+        "リール": 67.5,
+        "ストーリーズ": 2.5
       }
     },
     "30": {
       "label": "過去30日間",
-      "views": 153000,
-      "viewsFollowerPct": 51.0,
+      "views": 150000,
+      "viewsFollowerPct": 49.8,
       "reach": 25000,
-      "interactions": 238,
-      "interactionsFollowerPct": 61.8,
-      "actionAccounts": 165,
-      "profileActivity": 3115,
-      "profileVisits": 2456,
-      "linkTaps": 659,
+      "interactions": 245,
+      "interactionsFollowerPct": 58.0,
+      "actionAccounts": 174,
+      "profileActivity": 3157,
+      "profileVisits": 2477,
+      "linkTaps": 680,
       "viewSplit": {
-        "ストーリーズ": 63.8,
-        "リール": 34.7,
-        "投稿": 1.5,
+        "ストーリーズ": 62.0,
+        "リール": 36.6,
+        "投稿": 1.4,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 46.7,
-        "リール": 38.9,
-        "ストーリーズ": 14.4
+        "投稿": 39.9,
+        "リール": 46.1,
+        "ストーリーズ": 14.0
       }
     }
   },
@@ -366,16 +366,40 @@
       "interactions7": 57,
       "profileVisits7": 630,
       "linkTaps7": 185
+    },
+    {
+      "date": "2026-08-17",
+      "followers": 30219,
+      "posts": 707,
+      "views30": 150000,
+      "reach30": 25000,
+      "interactions30": 245,
+      "profileVisits30": 2477,
+      "linkTaps30": 680,
+      "views7": 34000,
+      "reach7": 9734,
+      "interactions7": 62,
+      "profileVisits7": 538,
+      "linkTaps7": 162
     }
   ],
   "posts": [
     {
+      "code": "DcCeGw0S_pl",
+      "taken_at": 1786749455,
+      "media_type": 2,
+      "like_count": 14,
+      "comment_count": 0,
+      "play_count": 1946,
+      "caption": "ooju jeans — blue restock\n\noojuの定番デニム、人気の blue が再入"
+    },
+    {
       "code": "Db4fs1iSzRV",
       "taken_at": 1786414676,
       "media_type": 2,
-      "like_count": 1,
+      "like_count": 2,
       "comment_count": 0,
-      "play_count": 1531,
+      "play_count": 1585,
       "caption": "seven days, one little wardrobe.\nthe dress for mon"
     },
     {
@@ -384,7 +408,7 @@
       "media_type": 2,
       "like_count": 17,
       "comment_count": 0,
-      "play_count": 4216,
+      "play_count": 4944,
       "caption": "夏のワードローブ、あと一枚だけ足すなら。\noojuは、日常に少しだけ余白をつくる、小さな服を提案して"
     },
     {
@@ -402,7 +426,7 @@
       "media_type": 2,
       "like_count": 8,
       "comment_count": 0,
-      "play_count": 1988,
+      "play_count": 1995,
       "caption": "multi border ringer t-shirts\n\n配色と太さのリズムにこだわった、\nooj"
     },
     {
@@ -429,7 +453,7 @@
       "media_type": 2,
       "like_count": 17,
       "comment_count": 0,
-      "play_count": 6493,
+      "play_count": 7081,
       "caption": "残りわずか！\nサマーシーズンに欠かせない軽撥水のナイロンショーツは、\n水遊びやレジャーなど、アウトド"
     },
     {
@@ -438,7 +462,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 0,
-      "play_count": 2408,
+      "play_count": 2414,
       "caption": "大人気のooju pileシリーズ☻\nふんわり軽い着心地で、リラックス感たっぷり✨\nおうち時間はもち"
     },
     {
@@ -501,7 +525,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 1,
-      "play_count": 8920,
+      "play_count": 8928,
       "caption": "💚🧡💜\n\n好きな色を、\n好きなように着る。\n\n上下の色が違ってもいい。\n誰がピンクを着てもいい"
     },
     {
@@ -564,7 +588,7 @@
       "media_type": 2,
       "like_count": 20,
       "comment_count": 0,
-      "play_count": 10828,
+      "play_count": 10831,
       "caption": "【2026年newカラーが入荷】\n\n素材やテイストが新しくなったリンガーT-shirtsが登場！！\n"
     },
     {
@@ -683,18 +707,15 @@
       "comment_count": 0,
       "play_count": null,
       "caption": "pile f/s T-shirts dark purple🍇\n\nふんわり軽い着心地で、リラックス感"
-    },
-    {
-      "code": "DX1XYPTEscQ",
-      "taken_at": 1777719600,
-      "media_type": 8,
-      "like_count": 12,
-      "comment_count": 0,
-      "play_count": null,
-      "caption": "Club ooju s/s T-shirts blue💙\n\n“make it playful!!”"
     }
   ],
   "tagged": [
+    {
+      "code": "DcGQFxIMzj3",
+      "user": "_jiohan",
+      "taken_at": 1786876445,
+      "caption": "ooju のお洋服できょうだいcode☺︎\nデザインや色のトーンのまとまりやバランスが可愛い🍈⭐︎"
+    },
     {
       "code": "Db7sV0zD84y",
       "user": "krh_1128",
@@ -711,19 +732,19 @@
       "code": "DbDEg1hEQeW",
       "user": "gunjian",
       "taken_at": 1784621970,
-      "caption": "最近の子と母。 かき氷はあっという間に溶けてしまったけれど、美味しくて楽しかった。 「あっという間"
+      "caption": "最近の子と母。\n\nかき氷はあっという間に溶けてしまったけれど、美味しくて楽しかった。\n「あっという間"
     },
     {
       "code": "Da_ljEXE3Wf",
       "user": "jnpykd",
       "taken_at": 1784505072,
-      "caption": ". 三連休。 #engineeredgarments #birkenstock #cculeather #omega"
+      "caption": ".\n\n三連休。\n\n#engineeredgarments\n#birkenstock\n#cculeat"
     },
     {
       "code": "Dac-ZMZGOuN",
       "user": "yohsuke.harada",
       "taken_at": 1783343693,
-      "caption": "撮影していだきました♡ thank you @ooju.official"
+      "caption": "⁡\n.\n.\n.\n撮影していだきました♡\n⁡\n⁡\nthank you @ooju.official \n"
     },
     {
       "code": "DaaH-8imTOQ",
@@ -735,37 +756,31 @@
       "code": "DaNsUzqCVEM",
       "user": "monmon521",
       "taken_at": 1782830903,
-      "caption": ". . 大好きなブランドの @ooju.officialさまから スイピに似合う服をチョイスして頂い"
+      "caption": ".\n.\n大好きなブランドの　@ooju.officialさまから\nスイピに似合う服をチョイスして頂い"
     },
     {
       "code": "DaNNiH1n70R",
       "user": "knt____84",
       "taken_at": 1782814759,
-      "caption": "こうやって見ると男の子感がかなり出てて…かなたもうすぐ5歳"
+      "caption": "👦🏻\n　　\n　　\nまだまだ私の中では👶🏻だと思ってるけど←\nこうやって見ると男の子感がかなり"
     },
     {
       "code": "DaNMsfTn5op",
       "user": "knt____84",
       "taken_at": 1782814320,
-      "caption": "🎏🎁 Celebrate kid's day thank you 🎁 ボーダーってピッチによ…"
+      "caption": "🎏🎁\n　　\n　　\n@ooju.official \nCelebrate kid's day 🎏\n"
     },
     {
       "code": "DaMTeuqE3U4",
       "user": "_uf.rec",
       "taken_at": 1782784323,
-      "caption": "小学生になってブラックコーデもよくするようになった🌚🖤 プレゼントしていただいたTシャツ"
+      "caption": ".\n小学生になってブラックコーデも\nよくするようになった🌚🖤\n⁡\n⁡\nプレゼントしていただいたT"
     },
     {
       "code": "DaMM2njk8dP",
       "user": "_uf.rec",
       "taken_at": 1782780849,
-      "caption": "こどもの日キャンペーンに当選して、かわいいTシャ…"
-    },
-    {
-      "code": "DZ91nxrmun1",
-      "user": "moo_su__n",
-      "taken_at": 1782298906,
-      "caption": "border × denim sibling coordination💘🦋🦩"
+      "caption": ".\n\nよく着せていた大大大好きなshop、\n@ooju.official さまのこどもの日キャンペー"
     }
   ]
 }
