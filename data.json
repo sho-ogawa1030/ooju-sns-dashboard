@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T09:57:33+09:00",
+  "generatedAt": "2026-08-18T09:40:00+09:00",
   "source": "Instagram Web インサイト + Web API (ooju.official)",
   "account": {
     "username": "ooju.official",
-    "followers": 30219,
+    "followers": 30210,
     "following": 0,
     "posts": 707,
     "bioLink": "https://ooju.jp/"
@@ -11,48 +11,48 @@
   "insights": {
     "7": {
       "label": "過去7日間",
-      "views": 34000,
-      "viewsFollowerPct": 48.6,
-      "reach": 9734,
-      "interactions": 62,
-      "interactionsFollowerPct": 35.5,
-      "actionAccounts": 52,
-      "profileActivity": 700,
-      "profileVisits": 538,
-      "linkTaps": 162,
+      "views": 36000,
+      "viewsFollowerPct": 47.8,
+      "reach": 9939,
+      "interactions": 68,
+      "interactionsFollowerPct": 32.4,
+      "actionAccounts": 57,
+      "profileActivity": 696,
+      "profileVisits": 531,
+      "linkTaps": 165,
       "viewSplit": {
-        "ストーリーズ": 54.9,
-        "リール": 44.5,
-        "投稿": 0.6,
+        "ストーリーズ": 52.6,
+        "リール": 46.8,
+        "投稿": 0.7,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 30.0,
-        "リール": 67.5,
-        "ストーリーズ": 2.5
+        "投稿": 33.3,
+        "リール": 64.1,
+        "ストーリーズ": 2.6
       }
     },
     "30": {
       "label": "過去30日間",
-      "views": 150000,
-      "viewsFollowerPct": 49.8,
-      "reach": 25000,
-      "interactions": 245,
-      "interactionsFollowerPct": 58.0,
-      "actionAccounts": 174,
-      "profileActivity": 3157,
-      "profileVisits": 2477,
-      "linkTaps": 680,
+      "views": 146000,
+      "viewsFollowerPct": 49.9,
+      "reach": 24000,
+      "interactions": 230,
+      "interactionsFollowerPct": 54.8,
+      "actionAccounts": 164,
+      "profileActivity": 3120,
+      "profileVisits": 2446,
+      "linkTaps": 674,
       "viewSplit": {
-        "ストーリーズ": 62.0,
-        "リール": 36.6,
-        "投稿": 1.4,
+        "ストーリーズ": 63.3,
+        "リール": 35.4,
+        "投稿": 1.2,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 39.9,
-        "リール": 46.1,
-        "ストーリーズ": 14.0
+        "投稿": 44.0,
+        "リール": 42.8,
+        "ストーリーズ": 13.2
       }
     }
   },
@@ -381,6 +381,21 @@
       "interactions7": 62,
       "profileVisits7": 538,
       "linkTaps7": 162
+    },
+    {
+      "date": "2026-08-18",
+      "followers": 30210,
+      "posts": 707,
+      "views30": 146000,
+      "reach30": 24000,
+      "interactions30": 230,
+      "profileVisits30": 2446,
+      "linkTaps30": 674,
+      "views7": 36000,
+      "reach7": 9939,
+      "interactions7": 68,
+      "profileVisits7": 531,
+      "linkTaps7": 165
     }
   ],
   "posts": [
@@ -390,7 +405,7 @@
       "media_type": 2,
       "like_count": 14,
       "comment_count": 0,
-      "play_count": 1946,
+      "play_count": 2418,
       "caption": "ooju jeans — blue restock\n\noojuの定番デニム、人気の blue が再入"
     },
     {
@@ -399,7 +414,7 @@
       "media_type": 2,
       "like_count": 2,
       "comment_count": 0,
-      "play_count": 1585,
+      "play_count": 1885,
       "caption": "seven days, one little wardrobe.\nthe dress for mon"
     },
     {
@@ -408,7 +423,7 @@
       "media_type": 2,
       "like_count": 17,
       "comment_count": 0,
-      "play_count": 4944,
+      "play_count": 4964,
       "caption": "夏のワードローブ、あと一枚だけ足すなら。\noojuは、日常に少しだけ余白をつくる、小さな服を提案して"
     },
     {
@@ -426,7 +441,7 @@
       "media_type": 2,
       "like_count": 8,
       "comment_count": 0,
-      "play_count": 1995,
+      "play_count": 1996,
       "caption": "multi border ringer t-shirts\n\n配色と太さのリズムにこだわった、\nooj"
     },
     {
@@ -453,7 +468,7 @@
       "media_type": 2,
       "like_count": 17,
       "comment_count": 0,
-      "play_count": 7090,
+      "play_count": 7117,
       "caption": "残りわずか！\nサマーシーズンに欠かせない軽撥水のナイロンショーツは、\n水遊びやレジャーなど、アウトド"
     },
     {
@@ -462,7 +477,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 0,
-      "play_count": 2414,
+      "play_count": 2418,
       "caption": "大人気のooju pileシリーズ☻\nふんわり軽い着心地で、リラックス感たっぷり✨\nおうち時間はもち"
     },
     {
@@ -711,6 +726,12 @@
   ],
   "tagged": [
     {
+      "code": "DcKdyw3gZEx",
+      "user": "m.e.b.4.29",
+      "taken_at": 1787017588,
+      "caption": "最近のお気に入り\n\nOOJUの【nylon salopette】\n\n撥水ナイロン100％で軽くて動き"
+    },
+    {
       "code": "DcGQFxIMzj3",
       "user": "_jiohan",
       "taken_at": 1786876445,
@@ -775,12 +796,6 @@
       "user": "_uf.rec",
       "taken_at": 1782784323,
       "caption": ".\n小学生になってブラックコーデも\nよくするようになった🌚🖤\n⁡\n⁡\nプレゼントしていただいたT"
-    },
-    {
-      "code": "DaMM2njk8dP",
-      "user": "_uf.rec",
-      "taken_at": 1782780849,
-      "caption": ".\n\nよく着せていた大大大好きなshop、\n@ooju.official さまのこどもの日キャンペー"
     }
   ]
 }
