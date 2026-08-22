@@ -1,58 +1,58 @@
 {
-  "generatedAt": "2026-08-21T10:57:49+09:00",
+  "generatedAt": "2026-08-22T10:35:00+09:00",
   "source": "Instagram Web インサイト + Web API (ooju.official)",
   "account": {
     "username": "ooju.official",
-    "followers": 30207,
+    "followers": 30203,
     "following": 0,
-    "posts": 707,
+    "posts": 708,
     "bioLink": "https://ooju.jp/"
   },
   "insights": {
     "7": {
       "label": "過去7日間",
-      "views": 34000,
-      "viewsFollowerPct": 49.8,
-      "reach": 9625,
-      "interactions": 83,
-      "interactionsFollowerPct": 41.0,
-      "actionAccounts": 64,
-      "profileActivity": 717,
-      "profileVisits": 557,
-      "linkTaps": 160,
+      "views": 33000,
+      "viewsFollowerPct": 50.0,
+      "reach": 9106,
+      "interactions": 75,
+      "interactionsFollowerPct": 42.7,
+      "actionAccounts": 62,
+      "profileActivity": 715,
+      "profileVisits": 554,
+      "linkTaps": 161,
       "viewSplit": {
-        "ストーリーズ": 56.8,
-        "リール": 42.5,
-        "投稿": 0.7,
+        "ストーリーズ": 56.0,
+        "リール": 43.4,
+        "投稿": 0.6,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 34.0,
-        "リール": 55.3,
-        "ストーリーズ": 10.6
+        "投稿": 21.1,
+        "リール": 63.2,
+        "ストーリーズ": 15.8
       }
     },
     "30": {
       "label": "過去30日間",
-      "views": 134000,
-      "viewsFollowerPct": 49.8,
+      "views": 132000,
+      "viewsFollowerPct": 50.5,
       "reach": 22000,
-      "interactions": 225,
-      "interactionsFollowerPct": 54.2,
+      "interactions": 221,
+      "interactionsFollowerPct": 52.5,
       "actionAccounts": 155,
-      "profileActivity": 3029,
-      "profileVisits": 2374,
-      "linkTaps": 655,
+      "profileActivity": 3013,
+      "profileVisits": 2359,
+      "linkTaps": 654,
       "viewSplit": {
-        "ストーリーズ": 63.6,
-        "リール": 35.1,
+        "ストーリーズ": 63.4,
+        "リール": 35.5,
         "投稿": 1.2,
         "動画": 0
       },
       "interactionSplit": {
-        "投稿": 43.2,
-        "リール": 41.1,
-        "ストーリーズ": 15.8
+        "投稿": 44.0,
+        "リール": 41.8,
+        "ストーリーズ": 14.2
       }
     }
   },
@@ -441,16 +441,40 @@
       "interactions7": 83,
       "profileVisits7": 557,
       "linkTaps7": 160
+    },
+    {
+      "date": "2026-08-22",
+      "followers": 30203,
+      "posts": 708,
+      "views30": 132000,
+      "reach30": 22000,
+      "interactions30": 221,
+      "profileVisits30": 2359,
+      "linkTaps30": 654,
+      "views7": 33000,
+      "reach7": 9106,
+      "interactions7": 75,
+      "profileVisits7": 554,
+      "linkTaps7": 161
     }
   ],
   "posts": [
+    {
+      "code": "DcUohfNSf0-",
+      "taken_at": 1787358864,
+      "media_type": 2,
+      "like_count": 1,
+      "comment_count": 0,
+      "play_count": 403,
+      "caption": "summer, almost over.\nnot for these.\n\npile shorts i"
+    },
     {
       "code": "DcCeGw0S_pl",
       "taken_at": 1786749455,
       "media_type": 2,
       "like_count": 14,
       "comment_count": 0,
-      "play_count": 2619,
+      "play_count": 2665,
       "caption": "ooju jeans — blue restock\n\noojuの定番デニム、人気の blue が再入"
     },
     {
@@ -459,7 +483,7 @@
       "media_type": 2,
       "like_count": 2,
       "comment_count": 0,
-      "play_count": 2072,
+      "play_count": 2085,
       "caption": "seven days, one little wardrobe.\nthe dress for mon"
     },
     {
@@ -468,7 +492,7 @@
       "media_type": 2,
       "like_count": 17,
       "comment_count": 0,
-      "play_count": 5386,
+      "play_count": 5402,
       "caption": "夏のワードローブ、あと一枚だけ足すなら。\noojuは、日常に少しだけ余白をつくる、小さな服を提案して"
     },
     {
@@ -486,7 +510,7 @@
       "media_type": 2,
       "like_count": 8,
       "comment_count": 0,
-      "play_count": 2004,
+      "play_count": 2006,
       "caption": "multi border ringer t-shirts\n\n配色と太さのリズムにこだわった、\nooj"
     },
     {
@@ -513,7 +537,7 @@
       "media_type": 2,
       "like_count": 17,
       "comment_count": 0,
-      "play_count": 7309,
+      "play_count": 7476,
       "caption": "残りわずか！\nサマーシーズンに欠かせない軽撥水のナイロンショーツは、\n水遊びやレジャーなど、アウトド"
     },
     {
@@ -522,7 +546,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 0,
-      "play_count": 2421,
+      "play_count": 2423,
       "caption": "大人気のooju pileシリーズ☻\nふんわり軽い着心地で、リラックス感たっぷり✨\nおうち時間はもち"
     },
     {
@@ -585,7 +609,7 @@
       "media_type": 2,
       "like_count": 15,
       "comment_count": 1,
-      "play_count": 8929,
+      "play_count": 8932,
       "caption": "💚🧡💜\n\n好きな色を、\n好きなように着る。\n\n上下の色が違ってもいい。\n誰がピンクを着てもいい"
     },
     {
@@ -758,15 +782,6 @@
       "comment_count": 124,
       "play_count": null,
       "caption": "こどもの日。\n\n今日も元気に走って、笑って、夢中で遊ぶきみへ。\n\nそのまっすぐな毎日が、何よりの贈り"
-    },
-    {
-      "code": "DX6uoOvEol1",
-      "taken_at": 1777899600,
-      "media_type": 8,
-      "like_count": 12,
-      "comment_count": 0,
-      "play_count": null,
-      "caption": "pile f/s T-shirts dark purple🍇\n\nふんわり軽い着心地で、リラックス感"
     }
   ],
   "tagged": [
